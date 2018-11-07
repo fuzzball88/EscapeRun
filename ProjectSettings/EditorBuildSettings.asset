@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Start.unity
+    guid: 699041e67cfa1494c89f6013052b3be4
+  - enabled: 1
+    path: Assets/_Scenes/Wakeup_level.unity
+    guid: f2c6d86a9955ae64a9eaeb37fba0bf7d
+  - enabled: 1
+    path: Assets/_Scenes/lockerroom.unity
+    guid: 570a6a3de4a07524588cfc5eb2e06119
+  - enabled: 1
+    path: Assets/_Scenes/kitchen.unity
+    guid: 89c6f3abf9cf41d43b3819b66b7cab32
+  - enabled: 1
+    path: Assets/_Scenes/monitoringroom.unity
+    guid: 7b5112121d4f61f4497627f2e64a0931
+  - enabled: 1
+    path: Assets/_Scenes/finalroom.unity
+    guid: 343a2d1acaf57a84689fd898a9da2b9b
